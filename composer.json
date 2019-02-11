@@ -1,0 +1,13 @@
+{
+    "name": "root/design-patterns",
+    "authors": [
+        {
+            "name": "Jeffrey",
+            "email": "qingcongke@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^8.0"
+    }
+}
